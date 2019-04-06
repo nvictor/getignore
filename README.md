@@ -1,4 +1,6 @@
-# A tool for getting .getignore files.
+# getignore
+
+A tool for getting .getignore files.
 
 ### Install
 
