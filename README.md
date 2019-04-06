@@ -1,4 +1,4 @@
-# A command line tool for getting publicly hosted .getignore files.
+# A tool for getting .getignore files.
 
 ### Install
 
