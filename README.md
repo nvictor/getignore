@@ -13,7 +13,7 @@ go build nvictor/getignore/cmd/getignore
 getignore python
 ```
 
-The above command will get the Python.getignore file and save it to `.gitignore` in the current folder.
+The above command will get the `Python.getignore` file and save it to `.gitignore` in the current folder.
 
 ### TODO:
 
