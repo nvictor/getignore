@@ -2,10 +2,15 @@
 
 ### Install
 
+Installing from sources (Mac OS X instructions)
+
 ```bash
-go get https://github.com/nvictor/getignore/cmd/getignore
-go build nvictor/getignore/cmd/getignore
+go get github.com/nvictor/getignore/cmd/getignore
+go build github.com/nvictor/getignore/cmd/getignore
+install getignore /usr/local/bin/
 ```
+
+See TODO about `brew` formulae.
 
 ### Usage:
 
@@ -18,7 +23,7 @@ The above command will get the `Python.getignore` file and save it to `.gitignor
 ### TODO:
 
 1. Brew formulae
-1. Windows support
+1. Other platforms?
 
 ### Misc:
 
